@@ -1,2 +1,11 @@
 # learning_myself
-I have taught myself the basic knowledge of algorithms and data structures.
+這裡主要是放一些我自學相關的內容。目前一共有3個資料夾。
+* 提升程式設計師的面試力：這個資料夾中，主要是我練習〈提升程式設計師的面試力：189道面試題目與解答 第六版 修訂版〉這本書中的題目，所撰寫的程式碼。遇到不會的題目時，主要是參考下列的github：
+  *  https://github.com/careercup/CtCI-6th-Edition-Python
+  *  https://github.com/w-hat/ctci-solutions
+* 資料結構：這個資料夾中，主要是我自學資料結構時，所練習打的程式碼。自學的主要內容是〈圖解資料結構 : 使用Python〉，並以此書的內容做為依據，在網路上學習更多的相關內容，相關資料都有在ipynb中註解。
+* 演算法：這個資料夾中，主要是我自學演算法時，所練習打的程式碼。自學的主要內容是〈圖說演算法 : 使用Python : 理解零負擔.採高CP值Python語言實作〉，並以此書的內容做為依據，在網路上學習更多的相關內容，相關資料都有在ipynb中註解。
+* ref:
+  * Gayle Laakmann McDowell(2021)。提升程式設計師的面試力：189道面試題目與解答第六版修訂版。碁峰。
+  * 吳燦銘(2019)。圖解資料結構 : 使用Python。博碩。
+  * 吳燦銘、胡昭民(2018)。圖說演算法：使用Python。博碩。
